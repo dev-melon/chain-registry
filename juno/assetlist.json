@@ -185,6 +185,28 @@
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/raw.png"
         },
         "coingecko_id": "junoswap-raw-dao"
+      },
+      {
+        "description": "Propose, vote and fund events with Melon and its DAO.",
+        "type_asset": "cw20",
+        "address": "juno1lf8wdpy68c4maqusg6sl76zrre32q7a5awtks25xqn3pvepedaps5ezt7j",
+        "denom_units": [
+          {
+            "denom": "cw20:juno1lf8wdpy68c4maqusg6sl76zrre32q7a5awtks25xqn3pvepedaps5ezt7j",
+            "exponent": 0
+          },
+          {
+            "denom": "melon",
+            "exponent": 6
+          }
+        ],
+        "base": "juno1lf8wdpy68c4maqusg6sl76zrre32q7a5awtks25xqn3pvepedaps5ezt7j",
+        "name": "Melon",
+        "display": "melon",
+        "symbol": "MELON",
+        "logo_URIs": {
+          "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/melon.png"
+        }
       }
     ]
   }
